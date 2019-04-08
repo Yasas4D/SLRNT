@@ -65,7 +65,7 @@ class _LoginPageState extends State<LoginPage> {
           builder: (BuildContext context) {
             return new Scaffold(
               appBar: new AppBar(
-                title: const Text('Login failed'),
+                title: const Text('Login Failed'),
               ),
             );
           },
